@@ -1,0 +1,6 @@
+{
+  "name": "SMM Master Panel",
+  "description": "A complete SMM Panel with admin dashboard, user management, provider API integration, and manual payment verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
